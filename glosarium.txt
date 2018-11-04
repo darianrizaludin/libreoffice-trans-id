@@ -139,6 +139,7 @@ shortcut = pintasan
 slide = salindia
 spreadsheet = ?
 syntax = sintaksis
+snapshots = ?
 
 T
 tab = tab
